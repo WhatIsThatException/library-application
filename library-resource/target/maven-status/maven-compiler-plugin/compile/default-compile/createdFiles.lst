@@ -1,0 +1,11 @@
+com/library/app/category/resource/CategoryJsonConverter.class
+com/library/app/common/json/JsonReader.class
+com/library/app/common/model/OperationResult.class
+com/library/app/common/model/StandardsOperationResults.class
+com/library/app/common/model/ResourceMessage.class
+com/library/app/category/resource/CategoryResource.class
+com/library/app/common/json/JsonUtils.class
+com/library/app/common/json/JsonWriter.class
+com/library/app/common/json/OperationResultJsonWriter.class
+com/library/app/common/exception/InvalidJsonException.class
+com/library/app/common/model/HttpCode.class
